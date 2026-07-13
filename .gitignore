@@ -1,0 +1,13 @@
+### IDE
+.idea
+
+### Python
+.venv
+
+### Airbnb Project
+airbnb/target/
+airbnb/dbt_packages/
+airbnb/logs/
+airbnb/profiles.yml
+
+
