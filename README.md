@@ -19,10 +19,10 @@
 - ~~Datasets and Data Flow Overview~~
 
 ### Seção 3: Models
-- Learning Objectives - Models
-- Models Overview
-- Theory: CTE - Common Table Expressions
-- DeprecationWarning - a dbt bug
-- Creating our first model: Airbnb listings
-- Teste 1: Models Quiz
-- Tarefa 1: Create the src_hosts model
+- ~~Learning Objectives - Models~~
+- ~~Models Overview~~
+- ~~Theory: CTE - Common Table Expressions~~
+- ~~DeprecationWarning - a dbt bug~~
+- ~~Creating our first model: Airbnb listings~~
+- ~~Teste 1: Models Quiz~~
+- ~~Tarefa 1: Create the src_hosts model~~
