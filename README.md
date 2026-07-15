@@ -26,3 +26,28 @@
 - ~~Creating our first model: Airbnb listings~~
 - ~~Teste 1: Models Quiz~~
 - ~~Tarefa 1: Create the src_hosts model~~
+
+### Seção 4: Materializations
+- ~~Learning Objectives - Materializations~~
+- ~~Materializations Overview~~
+- ~~Model Dependencies and dbt's ref tag~~
+- ~~Table type materialization & Project-level Materialization config~~
+- ~~Incremental materialization~~
+- ~~Incremental Strategies~~
+- ~~Ephemeral materialization~~
+- ~~Teste 2: Quiz Materializations~~
+
+### Seção 5: Seeds and Sources
+- Learning Objectives - Seeds and Sources
+- Seeds and Sources Overview
+- Seeds
+- Sources
+- Source Freshness Checks
+
+### Seção 6: Snapshots
+- Learning Objectives - Snapshots
+- Snapshots Overview
+- Create a Snapshot
+- Snapshots - Assignment Briefing
+- Tarefa 2: Assignment: Create a Snapshot for the Hosts Source
+- Teste 3: Snapshots Quiz
