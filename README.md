@@ -38,11 +38,11 @@
 - ~~Teste 2: Quiz Materializations~~
 
 ### Seção 5: Seeds and Sources
-- Learning Objectives - Seeds and Sources
-- Seeds and Sources Overview
-- Seeds
-- Sources
-- Source Freshness Checks
+- ~~Learning Objectives - Seeds and Sources~~
+- ~~Seeds and Sources Overview~~
+- ~~Seeds~~
+- ~~Sources~~
+- ~~Source Freshness Checks~~
 
 ### Seção 6: Snapshots
 - Learning Objectives - Snapshots
@@ -51,3 +51,16 @@
 - Snapshots - Assignment Briefing
 - Tarefa 2: Assignment: Create a Snapshot for the Hosts Source
 - Teste 3: Snapshots Quiz
+
+### Seção 7: Tests
+- Learning Objectives - Tests
+- Tests Overview
+- Generic Tests
+- Tarefa 3: Create Generic Tests
+- Debugging dbt Tests
+- Saving Test Failures to the Data Warehouse
+- Saving Test Failures into a Custom DB Schema
+- Singular Tests
+- Unit Tests
+- Tarefa 4: Create your own Singular Test
+- Teste 4: Tests Quiz
