@@ -45,12 +45,12 @@
 - ~~Source Freshness Checks~~
 
 ### Seção 6: Snapshots
-- Learning Objectives - Snapshots
-- Snapshots Overview
-- Create a Snapshot
-- Snapshots - Assignment Briefing
-- Tarefa 2: Assignment: Create a Snapshot for the Hosts Source
-- Teste 3: Snapshots Quiz
+- ~~Learning Objectives - Snapshots~~
+- ~~Snapshots Overview~~
+- ~~Create a Snapshot~~
+- ~~Snapshots - Assignment Briefing~~
+- ~~Tarefa 2: Assignment: Create a Snapshot for the Hosts Source~~
+- ~~Teste 3: Snapshots Quiz~~
 
 ### Seção 7: Tests
 - Learning Objectives - Tests
@@ -64,3 +64,11 @@
 - Unit Tests
 - Tarefa 4: Create your own Singular Test
 - Teste 4: Tests Quiz
+
+### Seção 8: Advanced Testing: Contracts and Custom Generic Tests
+- Data Contracts
+- Custom Generic Tests
+- Custom Tests With Parameters
+- Setting the Tests' Severity: Warning vs Error
+- Teste 5: Add you tests to dim_hosts_cleansed
+- dbt Constratints: Test at Insert Time
