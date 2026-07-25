@@ -53,17 +53,17 @@
 - ~~Teste 3: Snapshots Quiz~~
 
 ### Seção 7: Tests
-- Learning Objectives - Tests
-- Tests Overview
-- Generic Tests
-- Tarefa 3: Create Generic Tests
-- Debugging dbt Tests
-- Saving Test Failures to the Data Warehouse
-- Saving Test Failures into a Custom DB Schema
-- Singular Tests
-- Unit Tests
-- Tarefa 4: Create your own Singular Test
-- Teste 4: Tests Quiz
+- ~~Learning Objectives - Tests~~
+- ~~Tests Overview~~
+- ~~Generic Tests~~
+- ~~Tarefa 3: Create Generic Tests~~
+- ~~Debugging dbt Tests~~
+- ~~Saving Test Failures to the Data Warehouse~~
+- ~~Saving Test Failures into a Custom DB Schema~~
+- ~~Singular Tests~~
+- ~~Unit Tests~~
+- ~~Tarefa 4: Create your own Singular Test~~
+- ~~Teste 4: Tests Quiz~~
 
 ### Seção 8: Advanced Testing: Contracts and Custom Generic Tests
 - Data Contracts
@@ -72,3 +72,15 @@
 - Setting the Tests' Severity: Warning vs Error
 - Teste 5: Add you tests to dim_hosts_cleansed
 - dbt Constratints: Test at Insert Time
+
+### Seção 9: Jinja, Macros and Packages
+- Jinja Basics
+- dbt fusion compatibilty
+- Let's take Jinja for a Drive
+- dbt-Specific Jinja Features
+- Create Your Own Macros
+- Advanced Jinja
+- Advanced Macros in Action
+- Tarefa 6: Assignment: Macros Output Formatting
+- Installing Third-Party Packages
+- Teste 5: Quick Macro Quiz
