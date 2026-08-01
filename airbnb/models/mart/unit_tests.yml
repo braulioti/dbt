@@ -9,7 +9,7 @@ unit_tests:
             - { review_date: '2025-02-15' }
         - input: ref('seed_full_moon_dates')
           rows:
-             - { review_date: '2025-02-14' }
+             - { full_moon_date: '2025-02-14' }
       expect:
         rows:
           - { review_date: '2025-02-13', is_full_moon: "not full moon" }

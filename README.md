@@ -66,12 +66,12 @@
 - ~~Teste 4: Tests Quiz~~
 
 ### Seção 8: Advanced Testing: Contracts and Custom Generic Tests
-- Data Contracts
-- Custom Generic Tests
-- Custom Tests With Parameters
-- Setting the Tests' Severity: Warning vs Error
-- Teste 5: Add you tests to dim_hosts_cleansed
-- dbt Constratints: Test at Insert Time
+- ~~Data Contracts~~
+- ~~Custom Generic Tests~~
+- ~~Custom Tests With Parameters~~
+- ~~Setting the Tests' Severity: Warning vs Error~~
+- ~~Teste 5: Add you tests to dim_hosts_cleansed~~
+- ~~dbt Constratints: Test at Insert Time~~
 
 ### Seção 9: Jinja, Macros and Packages
 - Jinja Basics
@@ -84,3 +84,37 @@
 - Tarefa 6: Assignment: Macros Output Formatting
 - Installing Third-Party Packages
 - Teste 5: Quick Macro Quiz
+
+### Seção 10: Documentation
+- Learning Objectives - Documentation
+- Documentation Overview
+- Writing and Exploring Basic Documentation
+- Markdown-based Docs, Custom Overview Page and Assets
+- The Linage Graph (Data Flow DAG)
+- Tarefa 7: Document the dim_hosts_cleansed table
+- Teste 6: Documentation Quiz
+
+### Seção 29: REFERENCE - Theory 1 - The Data Maturity Model
+- ~~Introduction - Maslow's Pyramid of Data~~
+- ~~The Data Maturity Model~~
+- ~~ETL and ELT~~
+- ~~Teste 12: The Data Maturity Model~~
+
+### Seção 30: REFERENCE - Theory 2 - Data Warehouses, Data Lakes and Lakehouses
+- ~~Data Warehousing - a short introduction~~
+- ~~External Table and Cloud Data Warehouses~~
+- ~~Data Lakes~~
+- ~~Data Lakehouse~~
+- ~~Teste 13: Data Warehouses, Data Lakes and Lakehouses~~
+
+### Seção 31: REFERENCE - Theory 3 - The Modern Data Stack
+- ~~The Modern Data Stack~~
+- ~~Teste 14: The Modern Data Stack~~
+
+### Seção 32: REFERENCE - Theory 4 - Slowly Changing Dimensions (SCDs)
+- The Basic of Slowly Changing Dimensions
+- Type 0 - Retain Original
+- Type 1 - Overwrite
+- Type 2 - SCD2 - Add New Row
+- Type 3 - Add New Attribute
+- Teste 15: Slowly Changing Dimensions (SCDs)
