@@ -112,9 +112,16 @@
 - ~~Teste 14: The Modern Data Stack~~
 
 ### Seção 32: REFERENCE - Theory 4 - Slowly Changing Dimensions (SCDs)
-- The Basic of Slowly Changing Dimensions
-- Type 0 - Retain Original
-- Type 1 - Overwrite
-- Type 2 - SCD2 - Add New Row
-- Type 3 - Add New Attribute
-- Teste 15: Slowly Changing Dimensions (SCDs)
+- ~~The Basic of Slowly Changing Dimensions~~
+- ~~Type 0 - Retain Original~~
+- ~~Type 1 - Overwrite~~
+- ~~Type 2 - SCD2 - Add New Row~~
+- ~~Type 3 - Add New Attribute~~
+- ~~Teste 15: Slowly Changing Dimensions (SCDs)~~
+
+### Seção 33: REFERENCE - Python Installation
+- ~~Which Python Version should I install~~
+- ~~OPTIONAL - WINDOWS - Installing Python and pip~~
+
+### Seção 34: Bunus Lecture
+- ~~Bonus Lecture~~
