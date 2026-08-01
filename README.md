@@ -94,6 +94,12 @@
 - Tarefa 7: Document the dim_hosts_cleansed table
 - Teste 6: Documentation Quiz
 
+### Seção 28: dbt Certification Exam Preparation Guide
+- ~~Guide and Resources to the Certification Preparation Section~~
+- ~~How to prepare for the certification exam? An interview with Muizz Lateef~~
+- ~~2026 Analytics Engineer Certification Reflection and Preparation Guide~~
+- ~~Simulado 1: Knowledge Check / dbt Analytics Engineer Certification Exam Sample~~
+
 ### Seção 29: REFERENCE - Theory 1 - The Data Maturity Model
 - ~~Introduction - Maslow's Pyramid of Data~~
 - ~~The Data Maturity Model~~
